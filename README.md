@@ -1,2 +1,2 @@
 # Python-projects
-This repository
+This repository contains all my mini project that I did in python.
